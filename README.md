@@ -7,17 +7,12 @@
  * **GIT**
       * https://git-scm.com/downloads
 # How to get started
-       * clone repo
-      ```
-      git clone https://github.com/nicemare/kahoot/
-      ```
-        * enter directory
-      ```
-      cd kahoot
-      ```
-        * run
-      ```
-      python kahoot.py
-      ```
-     
-    
+  ```
+  git clone https://github.com/nicemare/kahoot/
+  ```
+  ```
+  cd kahoot
+  ```
+  ```
+  python kahoot.py
+  ```
