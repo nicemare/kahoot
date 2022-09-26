@@ -16,3 +16,6 @@
   ```
   python kahoot.py
   ```
+![image](https://user-images.githubusercontent.com/25836391/192182927-f4668f24-9ef7-4c3d-a715-e6266617532f.png)
+![image](https://user-images.githubusercontent.com/25836391/192183002-e2f5ac29-f7a3-443c-bc6a-de3a32cbb4e1.png)
+
